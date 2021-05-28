@@ -42,7 +42,7 @@ $ yarn build
 $ yarn start
 
 ```
----
+
 # 🛠 Sobre o teste A/B
 
 <p>Para executar o teste foi usado a biblioteca @marvelapp/react-ab-test e esta sendo executado apenas no ambiente de desenvolvimento no arquivo index.tsx que está localizado no em components/Header/, segue as imagens mostrando o componente e o resultado no navegador: </p>
