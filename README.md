@@ -59,7 +59,6 @@ Resultado B no navegador:
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
      <img title="resultado do teste b no navegador" src="./public/screenshot/preview-testB.jpg" width="400px" alt="resultado do teste b no navegador">
 </p>
----
 
 ## 💻 Tecnologias
 
