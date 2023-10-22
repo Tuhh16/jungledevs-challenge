@@ -68,8 +68,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[NextJs](https://nextjs.org/)**
 -   **[TypeScript](https://www.typescriptlang.org/)**
 
-> Veja o arquivo  [package.json](https://github.com/Tuhh16/jungledevs-challenge/blob/master/package.json)
-
 ---
 
 ## 📝 Licença
